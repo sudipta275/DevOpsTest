@@ -20,6 +20,8 @@ public void doGet(HttpServletRequest request,
                  HttpServletResponse response)
          throws ServletException, IOException
 {
+   
+   System.out.println("I am here");
    // Set response content type
    response.setContentType("text/html");
 
