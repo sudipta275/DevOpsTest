@@ -22,6 +22,7 @@ public void doGet(HttpServletRequest request,
 {
    
    System.out.println("I am here");
+   System.out.println("changing for demo");
    // Set response content type
    response.setContentType("text/html");
   System.out.println("Test to hyo");
