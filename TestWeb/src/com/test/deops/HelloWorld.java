@@ -21,7 +21,7 @@ public void doGet(HttpServletRequest request,
          throws ServletException, IOException
 {
    
-   System.out.println("I am here");
+   System.out.println("New Changes");
    System.out.println("changing for demo");
    // Set response content type
    response.setContentType("text/html");
