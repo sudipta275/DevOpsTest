@@ -13,7 +13,7 @@ private String message;
 public void init() throws ServletException
 {
    // Do required initialization
-   message = "Hello World";
+   message = "Hello World MLI";
 }
 
 public void doGet(HttpServletRequest request,
